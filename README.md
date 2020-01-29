@@ -1,6 +1,6 @@
 ![MIKES DATA WORK GIT REPO](https://raw.githubusercontent.com/mikesdatawork/images/master/git_mikes_data_work_banner_01.png "Mikes Data Work")        
 
-# Find SQL Databases Not Configured With AlwaysOn With SQL
+# Programmatically Find SQL Databases Not Configured For AlwaysOn With SQL
 **Post Date: August 18, 2016**        
 
 
